@@ -1,4 +1,4 @@
-# Language Modeling Case Week and Hackathon April 2018
+# Language Modeling Case Week and Best Hacking League April 2018
 This repository contains code for the "Deep NN in Language Modeling" workshop in April 2018. Please clone the contents of this repository to your local machine with git.
 
 To run the workshop code, you should have python3 installed (v3.6 recommended), as well as the number of required python packages: `numpy`, `matplotlib`, `tensorflow`(v1.7 recommended), `jupyter`. 
