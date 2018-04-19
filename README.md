@@ -1,10 +1,4 @@
 # Language Modeling Case Week and Best Hacking League April 2018
-p install tensorflow==1.7.0
-```
-```
-p install tensorflow==1.7.0
-```
-random
 This repository contains code for the "Deep NN in Language Modeling" workshop in April 2018. Please clone the contents of this repository to your local machine with git.
 
 To run the workshop code, you should have python3 installed (v3.5 recommended, 64 bit), as well as the number of required python packages: `numpy`, `matplotlib`, `tensorflow`(v1.7 recommended), `jupyter`. 
@@ -34,7 +28,6 @@ pip install tensorflow==1.7.0
 ```
 However, installing Tensorflow may be tricky sometimes. In case of problems, please follow instructions for your system at https://www.tensorflow.org/install/.
 We recomment installing version 1.7.0 through pip. 
-
 
 **5. And that's it :) Please check your installation as described in the next section**
 
